@@ -2,7 +2,7 @@ import math
 
 running = True
 
-# Moles to Grams and Moles to Grams
+# Moles to Grams and Grams to Moles
 def gramsToMoles(grams, molemass):
     result = grams / molemass
     return result
